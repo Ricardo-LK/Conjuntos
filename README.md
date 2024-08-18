@@ -8,10 +8,10 @@
     
         *As linhas seguintes seguirão sempre o mesmo padrão de três linhas;
 
-        	*A primeira linha apresenta o código da operação
-        	(U para união, I para interseção, D para diferença e C produto cartesiano)
+        *A primeira linha apresenta o código da operação
+        (U para união, I para interseção, D para diferença e C produto cartesiano)
 
-        	*A segunda e terceira conterão os elementos dos conjuntos separados por virgulas.
+        *A segunda e terceira conterão os elementos dos conjuntos separados por virgulas.
 
 **RODAR PROGRAMA**
 
@@ -21,7 +21,7 @@
 
 5.  Caso no Replit: Aperte o botão Run para rodar o programa;
 
-    Caso no GitHub:
+5.  Caso no GitHub:
 
     - Abra seu editor e no terminal clone o repositorio com o comando:
       git clone https://github.com/Ricardo-LK/Conjuntos.git
