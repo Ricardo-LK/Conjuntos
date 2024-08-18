@@ -1,4 +1,3 @@
-#Conjuntos
 **CRIAR ARQUIVOS**
 
 1.  Um aquivo de texto(.txt) deve ser criado;
@@ -12,7 +11,7 @@
 
         	*A segunda e terceira conterão os elementos dos conjuntos separados por virgulas.
 
-        												**RODAR PROGRAMA**
+**RODAR PROGRAMA**
 
 3.  O programa deve rodar com o arquivo ja proporcionado para testes;
 
