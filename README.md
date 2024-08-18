@@ -3,8 +3,10 @@
 1.  Um aquivo de texto(.txt) deve ser criado;
 
 2.  Esse arquivo deve seguir as sequintes regras:
-    *A primeira linha do arquivo deve conter o número de operações que são descritas no arquivo, este número deve ser um inteiro;
-    *As linhas seguintes seguirão sempre o mesmo padrão de três linhas;
+
+        *A primeira linha do arquivo deve conter o número de operações que são descritas no arquivo, este número deve ser um inteiro;
+    
+        *As linhas seguintes seguirão sempre o mesmo padrão de três linhas;
 
         	*A primeira linha apresenta o código da operação
         	(U para união, I para interseção, D para diferença e C produto cartesiano)
