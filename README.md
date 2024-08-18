@@ -21,7 +21,7 @@
 
 3.  Caso no Replit: Aperte o botão Run para rodar o programa;
 
-4.  Caso no GitHub:
+3.  Caso no GitHub:
 
     - Abra seu editor e no terminal clone o repositorio com o comando:
       git clone https://github.com/Ricardo-LK/Conjuntos.git
