@@ -15,13 +15,13 @@
 
 **RODAR PROGRAMA**
 
-3.  O programa deve rodar com o arquivo ja proporcionado para testes;
+1.  O programa deve rodar com o arquivo ja proporcionado para testes;
 
-4.  Após a criação do seu aquivo, a função ExecuteFile deve receber como parâmentro o nome exato (com extensão .txt) do arquivo criado.
+2.  Após a criação do seu aquivo, a função ExecuteFile deve receber como parâmentro o nome exato (com extensão .txt) do arquivo criado.
 
-5.  Caso no Replit: Aperte o botão Run para rodar o programa;
+3.  Caso no Replit: Aperte o botão Run para rodar o programa;
 
-5.  Caso no GitHub:
+3.  Caso no GitHub:
 
     - Abra seu editor e no terminal clone o repositorio com o comando:
       git clone https://github.com/Ricardo-LK/Conjuntos.git
