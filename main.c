@@ -52,7 +52,7 @@ void CartesianProduct(char combination[], char arr1[], char arr2[])
     strcpy(arr1Tmp, arr1);
     strcpy(arr2Tmp, arr2);
 
-    char *arr1Tokens[1024], *arr2Tokens[1024];
+    char *arr1Tokens[255], *arr2Tokens[255];
 
     int arr1cnt = 0, arr2cnt = 0;
 
@@ -97,6 +97,7 @@ void ExecuteFile(const char fileName[])
     if (file == NULL)
     {
         perror("Não foi possivel abrir esse arquivo");
+        fclose(file);
         return;
     }
 
@@ -117,10 +118,10 @@ void ExecuteFile(const char fileName[])
 
         fgets(operationOne, sizeof(operationOne), file);
         fgets(operationOne, sizeof(operationOne), file);
-        operationOne[strcspn(operationOne, "\n")] = '\0';
+        operationOne[strlen(operationOne) - 1] = '\0';
 
         fgets(operationTwo, sizeof(operationTwo), file);
-        operationTwo[strcspn(operationTwo, "\n")] = '\0';
+        operationTwo[strlen(operationTwo) - 1] = '\0';
 
         switch (operationCode)
         {
