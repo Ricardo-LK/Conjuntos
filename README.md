@@ -5,7 +5,7 @@
 2.  Esse arquivo deve seguir as sequintes regras:
 
         *A primeira linha do arquivo deve conter o número de operações que são descritas no arquivo, este número deve ser um inteiro;
-    
+
         *As linhas seguintes seguirão sempre o mesmo padrão de três linhas;
 
         *A primeira linha apresenta o código da operação
@@ -21,7 +21,7 @@
 
 3.  Caso no Replit: Aperte o botão Run para rodar o programa;
 
-3.  Caso no GitHub:
+4.  Caso no GitHub:
 
     - Abra seu editor e no terminal clone o repositorio com o comando:
       git clone https://github.com/Ricardo-LK/Conjuntos.git
